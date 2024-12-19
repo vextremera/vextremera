@@ -4,8 +4,6 @@
 
 <h1 align="left">Hi 👋! My name is Victor and I'm a Web Developer from Spain</h1>
 
-<img align="right" height="200" src="https://gifdb.com/images/high/goofy-anime-boy-6heu87hf7hmtxxd9.gif"  />
-
 <h3>Tech Stack:</h3> 
 
 <div align="left">
@@ -47,7 +45,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
 </div>
 
-<h2>Social Media:</h2> 
+<img align="right" height="200" src="https://gifdb.com/images/high/goofy-anime-boy-6heu87hf7hmtxxd9.gif"  />
+
+<h3>Social Media:</h3> 
 
 <div align="left">
   <a href="https://www.youtube.com/@robogamesrk" target="_blank">
