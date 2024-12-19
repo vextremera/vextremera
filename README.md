@@ -85,6 +85,9 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/vextremera/vextremera/output/github-snake.svg" />
 </picture>
 
+###
+<hr>
+
 > [!IMPORTANT]
 > IMPORTANT TIP
   
