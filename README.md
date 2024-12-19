@@ -53,16 +53,16 @@
 <h3>Social Media:</h3> 
 
 <div align="left">
-  <a href="www.linkedin.com/in/victor-extremera-7b461229a" target="_blank">
+  <a href="www.linkedin.com/in/victor-extremera-7b461229a" target="_blank" style="text-decoration: none; color: inherit;">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <a href="vicres43@gmail.com" target="_blank">
+  <a href="vicres43@gmail.com" target="_blank" style="text-decoration: none; color: inherit;">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
-  <a href="https://www.youtube.com/@robogamesrk" target="_blank">
+  <a href="https://www.youtube.com/@robogamesrk" target="_blank" style="text-decoration: none; color: inherit;">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF4444&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   </a>
-  <a href="https://vicres43.wixsite.com/victor-extremera/portfolio" target="_blank">
+  <a href="https://vicres43.wixsite.com/victor-extremera/portfolio" target="_blank" style="text-decoration: none; color: inherit;">
     <img src="https://img.shields.io/static/v1?message=Portfolio&logo=kdenlive&label=&color=555555&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   
