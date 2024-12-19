@@ -93,7 +93,7 @@
 > [!WARNING]
 > WARNING TIP
 
-> [!INFO]
+> [!CAUTION]
 > INFO TIP
 
 > [!NOTE]
