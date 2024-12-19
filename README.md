@@ -60,7 +60,7 @@
   </a>
   
   <a href="https://www.instagram.com/viictoorr._me/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+    <img src="[https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo](https://img.shields.io/static/v1?message=Portafolio&logo=Wix&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge)"  />
   </a>
   <a href="https://www.youtube.com/@robogamesrk" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
