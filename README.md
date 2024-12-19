@@ -10,16 +10,14 @@
 
 - ⚡ Fun fact **I'm 18 years old**
 
-<h3 align="left">Connect with me:</h3>
-<br>
-<p align="left">
+<h3 align="left" margin-bottom="10px">Connect with me:</h3>
+<p align="left" margin-bottom="30px">
 <a href="https://dev.to/https://dev.to/vextremera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/vextremera" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/www.linkedin.com/in/victor-extremera-7b461229a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/victor-extremera-7b461229a" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<br>
-<p align="left"> 
+<h3 align="left" margin-bottom="10px">Languages and Tools:</h3>
+<p align="left" margin-bottom="30px"> 
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
   <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a>
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
