@@ -6,7 +6,7 @@
 
 <img align="right" height="200" src="https://gifdb.com/images/high/goofy-anime-boy-6heu87hf7hmtxxd9.gif"  />
 
-<h2>Tech Stack:</h2> 
+<h3>Tech Stack:</h3> 
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
