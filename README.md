@@ -83,18 +83,19 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vextremera/vextremera/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/vextremera/vextremera/output/github-snake.svg" />
 </picture>
-
-> [!IMPORTANT]
-> IMPORTANT TIP
-
-> [!CAUTION]
-> INFO TIP
-
-> [!WARNING]
-> WARNING TIP
-
-> [!TIP]
-> COOL TIP
-
-> [!NOTE]
-> NOTE TIP
+<div>
+  > [!IMPORTANT]
+  > IMPORTANT TIP
+  
+  > [!CAUTION]
+  > INFO TIP
+  
+  > [!WARNING]
+  > WARNING TIP
+  
+  > [!TIP]
+  > COOL TIP
+  
+  > [!NOTE]
+  > NOTE TIP
+</div>
