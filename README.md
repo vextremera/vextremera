@@ -89,16 +89,16 @@
 <hr>
 
 > [!IMPORTANT]
-> IMPORTANT TIP
+> Hey!! Don't forget about this
   
 > [!CAUTION]
-> INFO TIP
+> STOOPPPP!!!
   
 > [!WARNING]
-> WARNING TIP
+> You should be careful
   
 > [!TIP]
-> COOL TIP
+> The snake it's a workflow
   
 > [!NOTE]
-> NOTE TIP
+> Just pointing at you >-<
