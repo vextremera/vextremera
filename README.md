@@ -2,7 +2,7 @@
 <img src="" alt="GitHub Banner" width="100%" />
 -->
 
-<h1 align="left">Hi 👋! My name is Victor and I'm a Web Developer from Spain</h1>
+<h1 align="left">Hi 👋! My name is Victor Extremera!</h1>
 
 ###
 <hr>
