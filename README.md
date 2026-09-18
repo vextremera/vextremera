@@ -83,7 +83,7 @@
 </picture>
 
 ###
-<hr>
+<!-- <hr>
 
 > [!IMPORTANT]
 > Hey!! Don't forget about this
@@ -98,4 +98,4 @@
 > The snake it's a workflow
   
 > [!NOTE]
-> Just pointing at you >-<
+> Just pointing at you >-< -->
